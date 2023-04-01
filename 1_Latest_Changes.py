@@ -105,7 +105,7 @@ if uploaded_file is not None:
 
 
 
-elif uploaded_file is  No
+elif uploaded_file is  None:
     
 
 
