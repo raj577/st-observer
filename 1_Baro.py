@@ -5,7 +5,7 @@ import plotly.express as px
 
 
 st.set_page_config(
-    page_title="Baro",
+    page_title="Latest Changes",
     page_icon="👋",
 )
 st.write("Developed by rajat aka TheChartsCruncher")
